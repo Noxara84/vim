@@ -19,6 +19,7 @@ set autoindent
 set smartindent  
 setlocal spell spelllang=es
 
+
 set noshowmode
 
 call plug#begin('~/.vim/plugged')
